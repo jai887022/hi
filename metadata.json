@@ -1,0 +1,6 @@
+{
+  "name": "Aura Personal Workspace",
+  "description": "An elegant, distraction-free dashboard combining an interactive Kanban board, Markdown scratchpad, visual Pomodoro clock, and a server-side Gemini AI workspace assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
